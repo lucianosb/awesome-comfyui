@@ -1,17 +1,17 @@
 # awesome-comfyui
-An awesome & curated list of cool tools for ComfyUI.
+An awesome and curated list of cool tools for ComfyUI.
 
 Inspired by the many [awesome](https://github.com/sindresorhus/awesome) lists on Github.
 
 ## Main ComfyUI Resources
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): main repository
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI_examples): examples on how to use different ComfyUI components and features
+- [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples): examples on how to use different ComfyUI components and features
 - [Tutorial](https://comfyanonymous.github.io/ComfyUI_tutorial_vn/): tutorial in visual novel style
 - [Comfy Models](https://huggingface.co/comfyanonymous): models by comfyanonymous to use in ComfyUI
 
 
-## ComfyUI Colab Notebooks
+## ComfyUI Google Colab Notebooks
 
 - [Official notebook](https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb): official Colab notebook
 - [camenduru/comfyui-colab](https://github.com/camenduru/comfyui-colab): Many Colab notebooks for ComfyUI using different SD Models
