@@ -3,6 +3,9 @@ An awesome and curated list of cool tools for ComfyUI.
 
 Inspired by the many [awesome](https://github.com/sindresorhus/awesome) lists on Github.
 
+![ComfyUI Mascot](https://i.imgur.com/zMm1jj6.png)
+_The ComfyUI Mascot_
+
 ## Main ComfyUI Resources
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): main repository
