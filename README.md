@@ -13,16 +13,17 @@ _The ComfyUI Mascot_
 - [Tutorial](https://comfyanonymous.github.io/ComfyUI_tutorial_vn/): tutorial in visual novel style
 - [Comfy Models](https://huggingface.co/comfyanonymous): models by comfyanonymous to use in ComfyUI
 
-
 ## ComfyUI Google Colab Notebooks
 
 - [Official notebook](https://colab.research.google.com/github/comfyanonymous/ComfyUI/blob/master/notebooks/comfyui_colab.ipynb): official Colab notebook
 - [camenduru/comfyui-colab](https://github.com/camenduru/comfyui-colab): Many Colab notebooks for ComfyUI using different SD Models
 - [WAS Node Suite Colab](https://colab.research.google.com/github/WASasquatch/comfyui-colab-was-node-suite/blob/main/ComfyUI_%2B_WAS_Node_Suite.ipynb): WAS Node Suite Colab
 
-## Custom Nodes
+## Custom Nodes and Plugins
 
+- [ComfyUI Manager](https://civitai.com/models/123358/sdvn-comfyui-workflow-autoprompt-sdxl)
 - [WASasquatch Plugins](https://github.com/WASasquatch/comfyui-plugins)
+- [ComfyUI Custom Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
 - [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
 - [Efficiency Nodes](https://github.com/LucianoCirino/efficiency-nodes-comfyui)
 - [Civitai Nodes](https://github.com/civitai/comfy-nodes)
@@ -46,6 +47,8 @@ _The ComfyUI Mascot_
 - [Wyrde Workflows](https://github.com/wyrde/wyrde-comfyui-workflows)
 - [Templates by atlasunified](https://github.com/atlasunified/Templates-ComfyUI-)
 - [SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL)
+- [SDXL in 4GB VRAM](https://civitai.com/models/117996/sdxl-config-comfyui-fast-generation-4gb-vram-refiner)
+- [Auto-generated prompts for SDXL](https://civitai.com/models/123358/sdvn-comfyui-workflow-autoprompt-sdxl)
 
 ## Projects using ComfyUI
 
