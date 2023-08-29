@@ -40,6 +40,7 @@ _The ComfyUI Mascot_
 - [animatediff](https://github.com/ArtVentureX/comfyui-animatediff)
 - [Post Processing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)
 - [Comfyui-Allor](https://github.com/Nourepide/ComfyUI-Allor)
+- [Comfyroll Custom Nodes](https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes)
 
 
 ## Workflows
