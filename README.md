@@ -50,6 +50,7 @@ _The ComfyUI Mascot_
 - [SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL)
 - [SDXL in 4GB VRAM](https://civitai.com/models/117996/sdxl-config-comfyui-fast-generation-4gb-vram-refiner)
 - [Auto-generated prompts for SDXL](https://civitai.com/models/123358/sdvn-comfyui-workflow-autoprompt-sdxl)
+- [Convert to Sticker](https://civitai.com/models/138074/convert-to-sticker-or-comfyui-workflow)
 
 ## Projects using ComfyUI
 
