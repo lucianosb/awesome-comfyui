@@ -59,6 +59,7 @@ _The ComfyUI Mascot_
 - [KitchenComfyUI](https://github.com/canisminor1990/kitchen-comfyui): A reactflow base stable diffusion GUI as ComfyUI alternative interface
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
+- [Krita Plutin](https://civitai.com/models/135081/comfy-sd-krita-plugin)
 
 ## License
 
