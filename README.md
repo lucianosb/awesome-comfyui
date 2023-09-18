@@ -10,6 +10,7 @@ _The ComfyUI Mascot_
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): main repository
 - [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples): examples on how to use different ComfyUI components and features
+- [ComfyUI Blog](https://comfyanonymous.github.io/ComfyUI_Blog/): to follow the latest updates
 - [Tutorial](https://comfyanonymous.github.io/ComfyUI_tutorial_vn/): tutorial in visual novel style
 - [Comfy Models](https://huggingface.co/comfyanonymous): models by comfyanonymous to use in ComfyUI
 
@@ -29,6 +30,7 @@ _The ComfyUI Mascot_
 - [Civitai Nodes](https://github.com/civitai/comfy-nodes)
 - [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 - [NodeGPT](https://github.com/xXAdonesXx/NodeGPT)
+- [ExLlama-Nodes](https://github.com/Zuellni/ComfyUI-ExLlama-Nodes)
 - [ComfyUI_cutoff](https://github.com/BlenderNeko/ComfyUI_Cutoff)
 - [FaceRestore Node](https://civitai.com/models/24690/comfyui-facerestore-node)
 - [Images Grid (X/Y Plot)](https://github.com/LEv145/images-grid-comfy-plugin)
@@ -41,6 +43,7 @@ _The ComfyUI Mascot_
 - [Post Processing Nodes](https://github.com/EllangoK/ComfyUI-post-processing-nodes)
 - [Comfyui-Allor](https://github.com/Nourepide/ComfyUI-Allor)
 - [Comfyroll Custom Nodes](https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes)
+- [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 
 
 ## Workflows
@@ -59,7 +62,7 @@ _The ComfyUI Mascot_
 - [KitchenComfyUI](https://github.com/canisminor1990/kitchen-comfyui): A reactflow base stable diffusion GUI as ComfyUI alternative interface
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
-- [Krita Plutin](https://civitai.com/models/135081/comfy-sd-krita-plugin)
+- [Krita Plutin](https://github.com/Acly/krita-ai-diffusion)
 
 ## License
 
