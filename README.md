@@ -44,6 +44,7 @@ _The ComfyUI Mascot_
 - [Comfyui-Allor](https://github.com/Nourepide/ComfyUI-Allor)
 - [Comfyroll Custom Nodes](https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes)
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
+- [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 
 
 ## Workflows
