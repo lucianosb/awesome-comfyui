@@ -49,6 +49,8 @@ _The ComfyUI Mascot_
 
 ## Workflows
 
+- [Openart Workflows Gallery](https://openart.ai/workflows/dev)
+- [Comfyworkflows](https://comfyworkflows.com/)
 - [Wyrde Workflows](https://github.com/wyrde/wyrde-comfyui-workflows)
 - [Templates by atlasunified](https://github.com/atlasunified/Templates-ComfyUI-)
 - [SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL)
