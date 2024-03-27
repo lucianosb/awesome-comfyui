@@ -22,7 +22,7 @@ _The ComfyUI Mascot_
 
 ## Custom Nodes and Plugins
 
-- [ComfyUI Manager](https://civitai.com/models/123358/sdvn-comfyui-workflow-autoprompt-sdxl)
+- [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 - [WASasquatch Plugins](https://github.com/WASasquatch/comfyui-plugins)
 - [ComfyUI Custom Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
 - [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
