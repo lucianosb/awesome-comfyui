@@ -67,6 +67,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plutin](https://github.com/Acly/krita-ai-diffusion)
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored): All-in-one local AI app with chat (Ollama), image generation (ComfyUI), and video generation (Wan/AnimateDiff). 25+ personas, model manager, dark/light mode.
 
 ## License
 
