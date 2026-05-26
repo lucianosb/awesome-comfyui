@@ -67,6 +67,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plutin](https://github.com/Acly/krita-ai-diffusion)
+- [ComfyStudio](https://comfystudio.io/): Browser-based studio that exposes curated ComfyUI / fal.ai workflows for anime and illustration creators. No install or local GPU required.
 
 ## License
 
