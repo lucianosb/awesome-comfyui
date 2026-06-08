@@ -61,6 +61,7 @@ _The ComfyUI Mascot_
 
 ## Projects using ComfyUI
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments (e.g. purchasing model access or compute). Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [ComfyBox](https://github.com/space-nuko/ComfyBox): Customizable Stable Diffusion frontend for ComfyUI
 - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI): A Modular Stable Diffusion Web-User-Interface
 - [KitchenComfyUI](https://github.com/canisminor1990/kitchen-comfyui): A reactflow base stable diffusion GUI as ComfyUI alternative interface
