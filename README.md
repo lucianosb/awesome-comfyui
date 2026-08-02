@@ -67,6 +67,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plutin](https://github.com/Acly/krita-ai-diffusion)
+- [Image MetaHub](https://github.com/LuqP2/Image-MetaHub): Local-first desktop app to search and organize AI-generated images by prompt, model, LoRA, seed and full ComfyUI workflow. Windows/macOS/Linux, fully offline.
 
 ## License
 
