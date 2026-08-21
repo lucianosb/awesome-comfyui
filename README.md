@@ -45,6 +45,7 @@ _The ComfyUI Mascot_
 - [Comfyroll Custom Nodes](https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes)
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
+- [FrameThrower](https://github.com/framethrower-ai/comfyui-framethrower): search a cinematography reference library of film stills by lighting, lens character, shot size, colour and mood, and load the result as an IMAGE node
 
 
 ## Workflows
