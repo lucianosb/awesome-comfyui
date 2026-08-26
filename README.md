@@ -59,6 +59,9 @@ _The ComfyUI Mascot_
 - [SDXL in 4GB VRAM](https://civitai.com/models/117996/sdxl-config-comfyui-fast-generation-4gb-vram-refiner)
 - [Auto-generated prompts for SDXL](https://civitai.com/models/123358/sdvn-comfyui-workflow-autoprompt-sdxl)
 - [Convert to Sticker](https://civitai.com/models/138074/convert-to-sticker-or-comfyui-workflow)
+- [ComfyUI Workflow Inspector](https://github.com/william08190/comfyui-workflow-inspector):
+  Browser-only workflow JSON diagnostics for output nodes, preview branches,
+  duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
 
 ## Projects using ComfyUI
 
