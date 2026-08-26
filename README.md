@@ -63,6 +63,7 @@ _The ComfyUI Mascot_
 ## Projects using ComfyUI
 
 - [ComfyBox](https://github.com/space-nuko/ComfyBox): Customizable Stable Diffusion frontend for ComfyUI
+- [Comfy Pilot](https://github.com/ConstantineB6/Comfy-Pilot): MCP server + embedded terminal that lets Claude Code see and edit your ComfyUI workflows
 - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI): A Modular Stable Diffusion Web-User-Interface
 - [KitchenComfyUI](https://github.com/canisminor1990/kitchen-comfyui): A reactflow base stable diffusion GUI as ComfyUI alternative interface
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
