@@ -72,6 +72,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
+- [AIVideoAdherenceGate](https://github.com/madebysaira/AIVideoAdherenceGate): Offline post-render semantic + motion health gate for AI video (motion, morph-drift, lip-sync) that you run on ComfyUI video outputs before delivery.
 
 ## License
 
