@@ -72,6 +72,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
+- [AI Media Studio](https://github.com/HARSH-THAKAR/ai-media-studio): Fully local topic-to-video pipeline that drives your own ComfyUI workflow for per-scene images, then narrates, subtitles and renders
 
 ## License
 
