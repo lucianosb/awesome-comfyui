@@ -72,6 +72,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
+- [OpenLayer](https://github.com/MehranMarxian/OpenLayer): Photoshop plugin for a local ComfyUI server - generate, inpaint, upscale, and split a flat image back into separate layers, imported as editable Photoshop layers
 
 ## License
 
