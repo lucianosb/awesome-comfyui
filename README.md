@@ -72,6 +72,7 @@ _The ComfyUI Mascot_
 - [MentalDiffusion](https://github.com/nimadez/mental-diffusion): Stable diffusion web interface for ComfyUI
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
+- [Kastard](https://github.com/somecatco/kastard): Open-source macOS app for editing ComfyUI workflows locally and running them on remote GPUs, with model and custom node synchronization.
 
 ## License
 
