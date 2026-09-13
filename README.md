@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [BudgetPixel](https://github.com/budgetpixel-ai/comfyui-budgetpixel)
 
 
 ## Workflows
