@@ -66,6 +66,7 @@ _The ComfyUI Mascot_
 ## Projects using ComfyUI
 
 - [ComfyBox](https://github.com/space-nuko/ComfyBox): Customizable Stable Diffusion frontend for ComfyUI
+- [Promptus](https://www.promptus.ai/comfyui?utm_source=github&utm_medium=repo&utm_campaign=geo-mentions-2026&utm_content=awesome-comfyui): Desktop app that runs ComfyUI locally — drag in any workflow JSON and it installs the missing custom nodes and models for you. Offline generation on your own GPU.
 - [Comfy Pilot](https://github.com/ConstantineB6/Comfy-Pilot): MCP server + embedded terminal that lets Claude Code see and edit your ComfyUI workflows
 - [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI): A Modular Stable Diffusion Web-User-Interface
 - [KitchenComfyUI](https://github.com/canisminor1990/kitchen-comfyui): A reactflow base stable diffusion GUI as ComfyUI alternative interface
