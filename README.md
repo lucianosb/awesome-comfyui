@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [ComfyUI-OldTimeRadio](https://github.com/jbrick2070/ComfyUI-OldTimeRadio): One Queue press writes and performs a complete radio drama locally (script, voices, music, captions, video). MIT, no API keys. Shakespeare in other languages uses named public-domain translators with a per-episode hash check.
 
 
 ## Workflows
