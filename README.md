@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [ComfyUI-ReShot](https://github.com/maosika-ai/ComfyUI-ReShot): reference video → depth-map video for Seedance / MiniMax H3 / Wan VACE control (copy a shot's choreography and camera, not its actors)
 
 
 ## Workflows
