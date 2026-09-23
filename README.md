@@ -21,6 +21,7 @@ _The ComfyUI Mascot_
 - [WAS Node Suite Colab](https://colab.research.google.com/github/WASasquatch/comfyui-colab-was-node-suite/blob/main/ComfyUI_%2B_WAS_Node_Suite.ipynb): WAS Node Suite Colab
 
 ## Custom Nodes and Plugins
+- [ComfyUI-SuperL8](https://github.com/jajmangold/ComfyUI-superl8) - INT8 quantized DiT nodes with per-layer SQNR gating, GGUF loading, and multi-GPU support.
 
 - [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 - [WASasquatch Plugins](https://github.com/WASasquatch/comfyui-plugins)
