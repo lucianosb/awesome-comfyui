@@ -73,6 +73,7 @@ _The ComfyUI Mascot_
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
 - [Hinode](https://hinode.run): cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) where ComfyUI installs in one click and opens in your own browser
+- [ComfyUI Portable Launcher](https://github.com/Martlet-Tech/ComfyUI-portable-launcher): Windows desktop launcher for managing multiple ComfyUI portable instances with independent ports and directories, one-click updates, and updates routed through the system proxy
 
 ## License
 
