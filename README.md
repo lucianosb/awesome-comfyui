@@ -50,6 +50,7 @@ _The ComfyUI Mascot_
 
 ## Workflows
 
+- [Wan 2.2 Cinematic I2V + InfiniteTalk - 24GB-Tuned ComfyUI Workflow Pack (720p)](https://adel93.itch.io/wan22-comfyui-workflow-pack): Three ComfyUI Wan 2.2 workflows tuned and measured on a single 24GB GPU (1280x720 I2V 8-step HIGH/LOW, 4-step Lightning, 832x480 audio-driven InfiniteTalk). Paid pack, creator's own measurements; the README explains every parameter
 - [YouML](https://youml.com): Share ComfyUI workflows and convert them into interactive apps
 - [Openart Workflows Gallery](https://openart.ai/workflows/dev)
 - [Comfyworkflows](https://comfyworkflows.com/)
