@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [ComfyUI RigShare](https://github.com/xiaodoudou/ComfyUI-RigShare): multi-user team workspace for one ComfyUI server: accounts, shared folders, live co-editing, chat and workflow history
 
 
 ## Workflows
