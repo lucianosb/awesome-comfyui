@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [Numonic Workflow Recovery](https://github.com/numonic-labs/comfyui-workflow-recovery): recover prompts, models, LoRAs and custom nodes from ComfyUI PNGs, offline
 
 
 ## Workflows
