@@ -47,6 +47,7 @@ _The ComfyUI Mascot_
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
 
+- [ComfyUI-LivePair](https://github.com/livepairai/ComfyUI-LivePair)
 
 ## Workflows
 
