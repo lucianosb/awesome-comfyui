@@ -63,6 +63,8 @@ _The ComfyUI Mascot_
   Browser-only workflow JSON diagnostics for output nodes, preview branches,
   duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
 
+- [ToolKnit AI Image Metadata Viewer](https://toolknit.com/tools/ai-image-metadata-viewer.html): Browser-based reader for saved prompts and ComfyUI UI workflows or API node graphs embedded in PNG, JPEG and WebP images, with original JSON export.
+
 ## Projects using ComfyUI
 
 - [ComfyBox](https://github.com/space-nuko/ComfyBox): Customizable Stable Diffusion frontend for ComfyUI
