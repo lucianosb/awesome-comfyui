@@ -62,6 +62,7 @@ _The ComfyUI Mascot_
 - [ComfyUI Workflow Inspector](https://github.com/william08190/comfyui-workflow-inspector):
   Browser-only workflow JSON diagnostics for output nodes, preview branches,
   duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
+- [isGenAI ComfyUI Workflow Viewer](https://isgenai.com/tools/comfyui-workflow-viewer): Free web tool that pulls the saved workflow and API prompt JSON out of a ComfyUI PNG (or an exported JSON file), lists its nodes and downloads the JSON as saved
 
 ## Projects using ComfyUI
 
