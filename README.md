@@ -33,6 +33,7 @@ _The ComfyUI Mascot_
 - [ExLlama-Nodes](https://github.com/Zuellni/ComfyUI-ExLlama-Nodes)
 - [ComfyUI_cutoff](https://github.com/BlenderNeko/ComfyUI_Cutoff)
 - [FaceRestore Node](https://civitai.com/models/24690/comfyui-facerestore-node)
+- [OpenPose Studio](https://github.com/andreszs/ComfyUI-OpenPose-Studio)
 - [Images Grid (X/Y Plot)](https://github.com/LEv145/images-grid-comfy-plugin)
 - [theally's Custom Nodes](https://civitai.com/models/19625/comfyui-custom-nodes)
 - [QualityOfLifeSuit_Omar92](https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92)
