@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [ComfyUI-PhobosStream](https://github.com/martianacademy/ComfyUI-PhobosStream): Zero-VRAM diffusion streaming engine for massive 12B–20B+ Video and Image DiTs (Wan2.1 14B, FLUX.1 12B, HunyuanVideo 13B) on consumer 8GB GPUs and 16GB Macs.
 
 
 ## Workflows
