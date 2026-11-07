@@ -28,6 +28,7 @@ _The ComfyUI Mascot_
 - [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
 - [Efficiency Nodes](https://github.com/LucianoCirino/efficiency-nodes-comfyui)
 - [Civitai Nodes](https://github.com/civitai/comfy-nodes)
+- [CivitAI Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer): Browse the Civitai image gallery inside ComfyUI — masonry/grid/list layouts, filters, favorites, and send prompts + LoRA metadata into the graph ([Comfy Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer))
 - [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 - [NodeGPT](https://github.com/xXAdonesXx/NodeGPT)
 - [ExLlama-Nodes](https://github.com/Zuellni/ComfyUI-ExLlama-Nodes)
