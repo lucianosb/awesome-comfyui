@@ -62,6 +62,9 @@ _The ComfyUI Mascot_
 - [ComfyUI Workflow Inspector](https://github.com/william08190/comfyui-workflow-inspector):
   Browser-only workflow JSON diagnostics for output nodes, preview branches,
   duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
+- [MOSS-Image ComfyUI guide](https://mossimage.dev/blog/moss-image-comfyui-guide):
+  The four official MOSS-Image workflow templates, the model files and sampler
+  settings each one loads, and what each one produces
 
 ## Projects using ComfyUI
 
