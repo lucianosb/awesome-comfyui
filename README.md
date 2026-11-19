@@ -62,6 +62,7 @@ _The ComfyUI Mascot_
 - [ComfyUI Workflow Inspector](https://github.com/william08190/comfyui-workflow-inspector):
   Browser-only workflow JSON diagnostics for output nodes, preview branches,
   duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
+- [TripoSR ComfyUI Workflow Generator](https://www.triposrai.com/tools/triposr-comfyui-workflow-generator/): Browser-based TripoSR ComfyUI workflow JSON generator and open-source image-to-3D guide
 
 ## Projects using ComfyUI
 
