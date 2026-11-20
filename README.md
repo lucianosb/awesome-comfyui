@@ -46,6 +46,7 @@ _The ComfyUI Mascot_
 - [smzNodes](https://github.com/shiimizu/ComfyUI_smZNodes)
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
+- [Seedance 2.5 (HaryAI)](https://github.com/sunsiyuan/seedance-comfyui): Seedance 2.5 and 2.5 Flash video generation (text to video, first and last frame, reference images, sound)
 
 
 ## Workflows
