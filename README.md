@@ -55,6 +55,7 @@ _The ComfyUI Mascot_
 - [Numonic Workflow Recovery](https://github.com/numonic-labs/comfyui-workflow-recovery): recover prompts, models, LoRAs and custom nodes from ComfyUI PNGs, offline
 - [ComfyUI RigShare](https://github.com/xiaodoudou/ComfyUI-RigShare): multi-user team workspace for one ComfyUI server: accounts, shared folders, live co-editing, chat and workflow history
 - [PerfectLab Studio](https://github.com/perfectmodelslab/ComfyUI-PerfectLab)
+- [ComfyUI-PhobosStream](https://github.com/martianacademy/ComfyUI-PhobosStream): Zero-VRAM diffusion streaming engine for massive 12B–20B+ Video and Image DiTs (Wan2.1 14B, FLUX.1 12B, HunyuanVideo 13B) on consumer 8GB GPUs and 16GB Macs.
 
 
 ## Workflows
