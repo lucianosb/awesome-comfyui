@@ -73,6 +73,7 @@ _The ComfyUI Mascot_
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
 - [Hinode](https://hinode.run): cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) where ComfyUI installs in one click and opens in your own browser
+- [Apidly Cloud](https://apidly.com/docs/tutorial-generate-images): rented GPU servers with a ready-made ComfyUI template that opens in your browser, billed by the second
 
 ## License
 
