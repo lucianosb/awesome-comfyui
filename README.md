@@ -84,6 +84,7 @@ _The ComfyUI Mascot_
 - [Kastard](https://github.com/somecatco/kastard): Open-source macOS app for editing ComfyUI workflows locally and running them on remote GPUs, with model and custom node synchronization.
 - [AIVideoAdherenceGate](https://github.com/madebysaira/AIVideoAdherenceGate): Offline post-render semantic + motion health gate for AI video (motion, morph-drift, lip-sync) that you run on ComfyUI video outputs before delivery.
 - [ComfyUI Portable Launcher](https://github.com/Martlet-Tech/ComfyUI-portable-launcher): Windows desktop launcher for managing multiple ComfyUI portable instances with independent ports and directories, one-click updates, and updates routed through the system proxy
+- [TakeBoard](https://github.com/Fourques/Takeboard): Open-source desktop canvas for AI image and video creation. Connect references, generate with your own local or remote ComfyUI, and use results in the next step.
 
 ## License
 
