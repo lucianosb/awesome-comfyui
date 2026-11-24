@@ -99,6 +99,7 @@ _The ComfyUI Mascot_
 - [gpu.nz](https://gpu.nz/en/solutions/comfyui): cloud GPU servers (RTX 3060 to H100, H200 and B200) rented by the minute with a ready ComfyUI template, paid in rubles (SBP) or crypto
 - [ComfyUI Model Manager](https://github.com/Gogotony/ComfyUI_Model_Manager): scans official workflow templates, checks missing models, and downloads them at max speed with 16-thread aria2 — no ComfyUI required
 - [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage): self-hosted AI short-drama and short-video studio that can route character, scene and prop image generation to your own ComfyUI server
+- [CloudGPU](https://cloudgpu.app/rent-gpu-for-comfyui): rent an on-demand GPU such as the RTX 5090 with a ComfyUI template and source-specific billing, giving root SSH, JupyterLab and a public HTTPS endpoint for ComfyUI's API
 
 ## License
 
