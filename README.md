@@ -73,6 +73,7 @@ _The ComfyUI Mascot_
 - [CushyStudio](https://github.com/rvion/CushyStudio): Next-Gen Generative Art Studio (+ typescript SDK) - based on ComfyUI
 - [Krita Plugin](https://github.com/Acly/krita-ai-diffusion)
 - [Hinode](https://hinode.run): cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) where ComfyUI installs in one click and opens in your own browser
+- [Image MetaHub](https://github.com/LuqP2/Image-MetaHub): Local-first desktop app to search and organize AI-generated images by prompt, model, LoRA, seed and full ComfyUI workflow. Windows/macOS/Linux, fully offline.
 
 ## License
 
