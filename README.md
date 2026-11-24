@@ -48,6 +48,7 @@ _The ComfyUI Mascot_
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
 - [FrameThrower](https://github.com/framethrower-ai/comfyui-framethrower): search a cinematography reference library of film stills by lighting, lens character, shot size, colour and mood, and load the result as an IMAGE node
 - [BudgetPixel](https://github.com/budgetpixel-ai/comfyui-budgetpixel)
+- [ComfyUI-ReShot](https://github.com/maosika-ai/ComfyUI-ReShot): reference video → depth-map video for Seedance / MiniMax H3 / Wan VACE control (copy a shot's choreography and camera, not its actors)
 
 
 ## Workflows
