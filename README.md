@@ -49,6 +49,7 @@ _The ComfyUI Mascot_
 - [FrameThrower](https://github.com/framethrower-ai/comfyui-framethrower): search a cinematography reference library of film stills by lighting, lens character, shot size, colour and mood, and load the result as an IMAGE node
 - [BudgetPixel](https://github.com/budgetpixel-ai/comfyui-budgetpixel)
 - [ComfyUI-ReShot](https://github.com/maosika-ai/ComfyUI-ReShot): reference video → depth-map video for Seedance / MiniMax H3 / Wan VACE control (copy a shot's choreography and camera, not its actors)
+- [ComfyUI-OldTimeRadio](https://github.com/jbrick2070/ComfyUI-OldTimeRadio): One Queue press writes and performs a complete radio drama locally (script, voices, music, captions, video). MIT, no API keys. Shakespeare in other languages uses named public-domain translators with a per-episode hash check.
 
 
 ## Workflows
