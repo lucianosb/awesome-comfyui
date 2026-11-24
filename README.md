@@ -90,6 +90,7 @@ _The ComfyUI Mascot_
 - [TakeBoard](https://github.com/Fourques/Takeboard): Open-source desktop canvas for AI image and video creation. Connect references, generate with your own local or remote ComfyUI, and use results in the next step.
 - [Image Studio](https://github.com/tamimKTH/image-studio): Local Qwen-Image 2.1 studio for Apple Silicon Macs with a prompt box and a node canvas, running ComfyUI as its engine
 - [HEISS UI](https://github.com/tristmeister/HEISS-UI): Image-first, free & open source front end for ComfyUI with 28 built-in image and video model families, a phone mode, LoRA stacks, upscaling and support for custom workflows ([website](https://heiss-ui.vercel.app/))
+- [ComfyUI Portable Installer](https://github.com/aivrar/comfyui-portable-installer): One-click portable ComfyUI installer for Windows with a management GUI, multi-GPU instances, a model registry and curated custom nodes (no Docker, Python, Git or admin rights)
 
 ## License
 
