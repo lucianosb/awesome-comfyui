@@ -52,6 +52,7 @@ _The ComfyUI Mascot_
 - [ComfyUI-OldTimeRadio](https://github.com/jbrick2070/ComfyUI-OldTimeRadio): One Queue press writes and performs a complete radio drama locally (script, voices, music, captions, video). MIT, no API keys. Shakespeare in other languages uses named public-domain translators with a per-episode hash check.
 - [Numonic Workflow Recovery](https://github.com/numonic-labs/comfyui-workflow-recovery): recover prompts, models, LoRAs and custom nodes from ComfyUI PNGs, offline
 - [ComfyUI RigShare](https://github.com/xiaodoudou/ComfyUI-RigShare): multi-user team workspace for one ComfyUI server: accounts, shared folders, live co-editing, chat and workflow history
+- [PerfectLab Studio](https://github.com/perfectmodelslab/ComfyUI-PerfectLab)
 
 
 ## Workflows
