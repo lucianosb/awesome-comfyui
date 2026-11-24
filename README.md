@@ -23,6 +23,7 @@ _The ComfyUI Mascot_
 ## Custom Nodes and Plugins
 
 - [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+- [ComfyUI Updater](https://github.com/andreszs/comfyui-updater)
 - [WASasquatch Plugins](https://github.com/WASasquatch/comfyui-plugins)
 - [ComfyUI Custom Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
 - [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui)
