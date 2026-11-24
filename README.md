@@ -83,6 +83,8 @@ _The ComfyUI Mascot_
   The four official MOSS-Image workflow templates, the model files and sampler
   settings each one loads, and what each one produces
 
+- [InferCalc](https://infercalc.com): Free VRAM, KV cache, and inference cost calculator for local LLMs (Llama, DeepSeek, Qwen) and ComfyUI workflows.
+
 ## Projects using ComfyUI
 
 - [ComfyBox](https://github.com/space-nuko/ComfyBox): Customizable Stable Diffusion frontend for ComfyUI
