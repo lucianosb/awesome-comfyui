@@ -76,6 +76,7 @@ _The ComfyUI Mascot_
 - [Hinode](https://hinode.run): cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) where ComfyUI installs in one click and opens in your own browser
 - [Image MetaHub](https://github.com/LuqP2/Image-MetaHub): Local-first desktop app to search and organize AI-generated images by prompt, model, LoRA, seed and full ComfyUI workflow. Windows/macOS/Linux, fully offline.
 - [AI Media Studio](https://github.com/HARSH-THAKAR/ai-media-studio): Fully local topic-to-video pipeline that drives your own ComfyUI workflow for per-scene images, then narrates, subtitles and renders
+- [OpenLayer](https://github.com/MehranMarxian/OpenLayer): Photoshop plugin for a local ComfyUI server - generate, inpaint, upscale, and split a flat image back into separate layers, imported as editable Photoshop layers
 
 ## License
 
