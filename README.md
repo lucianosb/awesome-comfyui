@@ -83,6 +83,7 @@ _The ComfyUI Mascot_
 - [OpenLayer](https://github.com/MehranMarxian/OpenLayer): Photoshop plugin for a local ComfyUI server - generate, inpaint, upscale, and split a flat image back into separate layers, imported as editable Photoshop layers
 - [Kastard](https://github.com/somecatco/kastard): Open-source macOS app for editing ComfyUI workflows locally and running them on remote GPUs, with model and custom node synchronization.
 - [AIVideoAdherenceGate](https://github.com/madebysaira/AIVideoAdherenceGate): Offline post-render semantic + motion health gate for AI video (motion, morph-drift, lip-sync) that you run on ComfyUI video outputs before delivery.
+- [ComfyUI Portable Launcher](https://github.com/Martlet-Tech/ComfyUI-portable-launcher): Windows desktop launcher for managing multiple ComfyUI portable instances with independent ports and directories, one-click updates, and updates routed through the system proxy
 
 ## License
 
