@@ -109,6 +109,7 @@ _The ComfyUI Mascot_
 - [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage): self-hosted AI short-drama and short-video studio that can route character, scene and prop image generation to your own ComfyUI server
 - [CloudGPU](https://cloudgpu.app/rent-gpu-for-comfyui): rent an on-demand GPU such as the RTX 5090 with a ComfyUI template and source-specific billing, giving root SSH, JupyterLab and a public HTTPS endpoint for ComfyUI's API
 - [LoRA Dataset Studio](https://github.com/perfectgf/lora-dataset-studio): Dataset curation, captioning and LoRA training workbench using ComfyUI for generation and checkpoint comparison.
+- [Asset Forge](https://github.com/Noamcelermajer/comfyui-text-to-3d-mcp): MCP server + agent skill that turns text into game-ready low-poly 3D models (.glb, PBR textures) through ComfyUI, with mesh checks and preview renders
 
 ## License
 
