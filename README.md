@@ -59,6 +59,7 @@ _The ComfyUI Mascot_
 - [ComfyUI-PhobosStream](https://github.com/martianacademy/ComfyUI-PhobosStream): Zero-VRAM diffusion streaming engine for massive 12B–20B+ Video and Image DiTs (Wan2.1 14B, FLUX.1 12B, HunyuanVideo 13B) on consumer 8GB GPUs and 16GB Macs.
 - [ModelRunner Nodes](https://github.com/modelrunner/modelrunner-comfyui)
 - [Seedance 2.5 (HaryAI)](https://github.com/sunsiyuan/seedance-comfyui): Seedance 2.5 and 2.5 Flash video generation (text to video, first and last frame, reference images, sound)
+- [ComfyUI-WaveSpeed](https://github.com/WaveSpeedAI/wavespeed-comfyui)
 
 
 ## Workflows
