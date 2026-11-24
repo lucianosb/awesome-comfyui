@@ -47,6 +47,7 @@ _The ComfyUI Mascot_
 - [Prompt Expansion](https://civitai.com/models/146480/prompt-expansion-custom-node-for-comfyui)
 - [ComfyUI-Labnana](https://github.com/exoticknight/ComfyUI-Labnana)
 - [FrameThrower](https://github.com/framethrower-ai/comfyui-framethrower): search a cinematography reference library of film stills by lighting, lens character, shot size, colour and mood, and load the result as an IMAGE node
+- [BudgetPixel](https://github.com/budgetpixel-ai/comfyui-budgetpixel)
 
 
 ## Workflows
