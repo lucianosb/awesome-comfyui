@@ -96,6 +96,7 @@ _The ComfyUI Mascot_
 - [FLUX.2 styles compared](https://stablediffusion.fr/flux2-styles): 93 art styles rendered with FLUX.2 [klein] 4B in ComfyUI on the same six scenes and seed, 564 images with the style sentences to copy
 - [Sketchbook Style](https://github.com/Keith-CY/sketchbook-style): Agent Skill for Claude Code and other coding agents that draws any object as a black-ink industrial-design sketchbook page with Qwen-Image 2.1 on ComfyUI (bundled API client and workflow), plus an ink post-process
 - [gpu.nz](https://gpu.nz/en/solutions/comfyui): cloud GPU servers (RTX 3060 to H100, H200 and B200) rented by the minute with a ready ComfyUI template, paid in rubles (SBP) or crypto
+- [ComfyUI Model Manager](https://github.com/Gogotony/ComfyUI_Model_Manager): scans official workflow templates, checks missing models, and downloads them at max speed with 16-thread aria2 — no ComfyUI required
 
 ## License
 
