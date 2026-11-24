@@ -94,6 +94,7 @@ _The ComfyUI Mascot_
 - [ComfyUI Portable Installer](https://github.com/aivrar/comfyui-portable-installer): One-click portable ComfyUI installer for Windows with a management GUI, multi-GPU instances, a model registry and curated custom nodes (no Docker, Python, Git or admin rights)
 - [FLUX.2 styles compared](https://stablediffusion.fr/flux2-styles): 93 art styles rendered with FLUX.2 [klein] 4B in ComfyUI on the same six scenes and seed, 564 images with the style sentences to copy
 - [Sketchbook Style](https://github.com/Keith-CY/sketchbook-style): Agent Skill for Claude Code and other coding agents that draws any object as a black-ink industrial-design sketchbook page with Qwen-Image 2.1 on ComfyUI (bundled API client and workflow), plus an ink post-process
+- [gpu.nz](https://gpu.nz/en/solutions/comfyui): cloud GPU servers (RTX 3060 to H100, H200 and B200) rented by the minute with a ready ComfyUI template, paid in rubles (SBP) or crypto
 
 ## License
 
