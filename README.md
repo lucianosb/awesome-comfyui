@@ -50,6 +50,7 @@ _The ComfyUI Mascot_
 - [BudgetPixel](https://github.com/budgetpixel-ai/comfyui-budgetpixel)
 - [ComfyUI-ReShot](https://github.com/maosika-ai/ComfyUI-ReShot): reference video → depth-map video for Seedance / MiniMax H3 / Wan VACE control (copy a shot's choreography and camera, not its actors)
 - [ComfyUI-OldTimeRadio](https://github.com/jbrick2070/ComfyUI-OldTimeRadio): One Queue press writes and performs a complete radio drama locally (script, voices, music, captions, video). MIT, no API keys. Shakespeare in other languages uses named public-domain translators with a per-episode hash check.
+- [Numonic Workflow Recovery](https://github.com/numonic-labs/comfyui-workflow-recovery): recover prompts, models, LoRAs and custom nodes from ComfyUI PNGs, offline
 
 
 ## Workflows
