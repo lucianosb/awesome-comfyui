@@ -76,6 +76,9 @@ _The ComfyUI Mascot_
   duration/FPS fields, prompts, seeds, workflow diffs, and repair briefs
 - [ToolKnit AI Image Metadata Viewer](https://toolknit.com/tools/ai-image-metadata-viewer.html): Browser-based reader for saved prompts and ComfyUI UI workflows or API node graphs embedded in PNG, JPEG and WebP images, with original JSON export.
 - [isGenAI ComfyUI Workflow Viewer](https://isgenai.com/tools/comfyui-workflow-viewer): Free web tool that pulls the saved workflow and API prompt JSON out of a ComfyUI PNG (or an exported JSON file), lists its nodes and downloads the JSON as saved
+- [MOSS-Image ComfyUI guide](https://mossimage.dev/blog/moss-image-comfyui-guide):
+  The four official MOSS-Image workflow templates, the model files and sampler
+  settings each one loads, and what each one produces
 
 ## Projects using ComfyUI
 
