@@ -113,6 +113,7 @@ _The ComfyUI Mascot_
 - [LoRA Dataset Studio](https://github.com/perfectgf/lora-dataset-studio): Dataset curation, captioning and LoRA training workbench using ComfyUI for generation and checkpoint comparison.
 - [Asset Forge](https://github.com/Noamcelermajer/comfyui-text-to-3d-mcp): MCP server + agent skill that turns text into game-ready low-poly 3D models (.glb, PBR textures) through ComfyUI, with mesh checks and preview renders
 - [Apidly Cloud](https://apidly.com/docs/tutorial-generate-images): rented GPU servers with a ready-made ComfyUI template that opens in your browser, billed by the second
+- [Marea](https://github.com/indecenti/marea): Windows tool that frees disk space used by ComfyUI models without deleting them (files with a verified source become 0-byte placeholders and come back, SHA-256 checked, when ComfyUI loads them), with a model inventory and a safety check for .ckpt and .pt files
 
 ## License
 
