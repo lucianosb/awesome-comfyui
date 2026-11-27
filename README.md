@@ -60,6 +60,8 @@ _The ComfyUI Mascot_
 - [ModelRunner Nodes](https://github.com/modelrunner/modelrunner-comfyui)
 - [Seedance 2.5 (HaryAI)](https://github.com/sunsiyuan/seedance-comfyui): Seedance 2.5 and 2.5 Flash video generation (text to video, first and last frame, reference images, sound)
 - [ComfyUI-WaveSpeed](https://github.com/WaveSpeedAI/wavespeed-comfyui)
+- [Comic Lettering](https://github.com/KazeKaze93/sd-comic-lettering): Fills the speech bubbles in generated images with your text, adds captions and sound effects, with a visual editor
+- [Style Grid](https://github.com/KazeKaze93/sd-comfyui-style-organizer): Browse and apply prompt styles from a searchable visual card grid
 
 
 ## Workflows
